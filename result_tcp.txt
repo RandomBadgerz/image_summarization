@@ -1,0 +1,160 @@
+Page:0003
+Result:```markdown
+# One Page Summary
+
+## Overview
+ในเดือนกุมภาพันธ์ เมื่อเปรียบเทียบเดือนก่อนหน้า ภาพรวม Corporate มี Mentions และ Engagements ลดลงเล็กน้อย ช่องทางหลักเป็น Website และ Facebook โดย X (Twitter) มี Mentions เพิ่มสูงสุดจากการพูดถึงแบรนด์ต่าง ๆ
+
+## TCP
+- **เป็นอันดับ 1 ของตลาด**
+  - โดยมี Mentions และ Engagement จาก Facebook และ Twitter 
+- **กิจกรรม** “ส่งต่อรัก ปลุกพลัมเลิฟ” ในวันที่ 14 ก.พ. 
+  - คิดเป็น Mentions ประมาณ 39% บนช่องทาง Facebook
+- Positive Mention เป็นอันดับหนึ่งจากประชาชนพันธุ์ เชื่อมโยง "กลุ่มธุรกิจ TCP ปลุกพลัมเลิฟ ส่งต่อโอกาสสาทิพย์ มอบสุขให้ชาวไทย"
+
+## Nestlé
+- **มี Engagement อันดับ 2**
+  - โดยสร้าง Engagement ได้ 45,362 จาก 298 Mentions 
+  - โดย 50% ของ Engagement มาจากแบรนด์โปรโมชั่นเนสท์เล่ลสนุกกับตราตรึมิโคนา 
+
+## Comparison
+- **TCP, Sappe, Thaibev** เป็นเพียง 3 แบรนด์ที่มี Engagement เพิ่มขึ้น
+  - TCP เพิ่มข้ามช่องทางโปรโมชันแบรนด์ในหลายๆ และข่าว PR โครงการต่าง ๆ
+  - Sappe จากข่าวหน่วยงานและประกอบการ และ Thaibev จากกฎและกิจกรรมการฟื้นฟูวัฒนธรรมของ ThaiBev
+```
+
+
+Page:0010
+Result:```markdown
+# TCP Corporate Overview Summary
+
+## Overview
+
+- **Total Mentions:** 2,306  (-1%)
+- **Total Engagements:** 164,923  (-15%)
+
+### Monthly Comparison of Mentions
+
+| Brand           | Mentions |
+|-----------------|----------|
+| TCP             | 525      |
+| Osotspa         | 473      |
+| Sappe Beauti    | 300      |
+| Coca Cola       | 298      |
+| Thaibev         | 277      |
+| คาราบาว        | 271      |
+| Ichitan         | 59       |
+
+## Channels
+
+- **Total Articles by Channel**
+  
+  | Channel     | Total Articles |
+  |-------------|----------------|
+  | Website     | 877            |
+  | Facebook    | 837            |
+  | X           | 506            |
+  | YouTube     | 37             |
+  | Instagram    | 28             |
+  | Newspaper   | 20             |
+  | TikTok      | 1              |
+
+### Monthly Comparison of Total Articles
+
+| Channel   | February | January |
+|-----------|----------|---------|
+| Facebook  | 837      | 1,192   |
+| Website   | 877      | 739     |
+| X         | 506      | 294     |
+| YouTube   | 37       | 58      |
+| Instagram | 28       | 44      |
+| Newspaper | 20       | 15      |
+| TikTok    | 1        | 0       |
+
+## Sentiments
+
+- **Total Articles: 172**
+  - **Positive:** 2,129
+  - **Neutral:** 5
+  - **Negative:** 0
+
+*Note: Mentions and Engagements are used to measure brand awareness and interactions.*
+```
+
+Page:0021
+Result:```markdown
+# TCP Official Buzz Timeline (Facebook)
+
+## Key Highlights
+
+- **World Wetlands Day Campaign**
+  - ![World Wetlands Day](image_url_placeholder)
+
+- **New Product Launch: Purik Ux Bus**
+  - ![Purik Ux Bus Event](image_url_placeholder)
+
+- **Collaboration Activity: Red Bull TH x BamBam Bull**
+  - ![Red Bull Collaboration](image_url_placeholder)
+
+- **Brand Engagement: YONO Product Promotion**
+  - ![YONO Promotion](image_url_placeholder)
+
+- **#ReadyXo1 Event Activity**
+  - ![Ready Event](image_url_placeholder)
+
+- **Promotional Event: Commitment to Sustainability**
+  - ![Sustainability Commitment](image_url_placeholder)
+
+## Mentions by Brand
+
+- **TCP**: 
+  - ![TCP Mentions](image_url_placeholder)
+
+- **Competitors**:
+  - Osotspa
+  - Sappe Beauti
+  - Nestle
+  - Coca Cola Thailand
+  - Thaibev
+  - คาราบาว
+  - Ichitan
+
+## Mention Trends Overview
+
+- **Timeline**: 1-Feb to 28-Feb
+- **Metrics**: Mentions tracked over the specified dates.
+
+![Mentions Chart](image_url_placeholder)
+
+---
+
+*Copyright © 2025 Real Smart Company Limited. All rights reserved. Reproduction in whole or in part without the permission of the copyright holder is strictly prohibited.*
+```
+
+*Note: Replace `image_url_placeholder` with the actual image URLs if available.*
+
+Page:0037
+Result:```markdown
+# CONTENT EFFICIENCY SCORE: Which Content is ‘Good’?
+
+| Brand               | Engagement | Likes | Comments | Content Type |
+|---------------------|------------|-------|----------|--------------|
+| Coca-Cola           | 11,658     | 11,370| 60       | ESG          |
+| Coca-Cola           | 5,836      | 5,739 | 15       | Influencer   |
+| TCP                 | 1,612      | 1,448 | 74       | ESG          |
+| Osotspa             | 3,954      | 3,591 | 242      | Campaign     |
+| Sappe Beauti        | 3,530      | 3,486 | 12       | Collaboration |
+| Coca-Cola           | 1,980      | 1,909 | 24       | Reward       |
+| Thaibev             | 1,523      | 1,414 | 66       | Reward       |
+| Sappe Beauti        | 1,458      | 1,340 | 36       | Collaboration |
+| Coca-Cola           | 1,350      | 1,255 | 10       | Activity     |
+
+### Notes:
+- **Nestle**: Engaged audience but had issues with misleading content.
+- **Coca-Cola**:  Strategies focused on high engagement.
+- **Sappe Beauti**: Collaborative content generated interest and engagement.
+- **TCP**: Focused on engagement related to community initiatives and ESG.
+
+*Copyright © 2025 Real Smart Company Limited. All rights reserved.*
+```
+

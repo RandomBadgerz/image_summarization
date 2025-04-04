@@ -1,0 +1,132 @@
+Page:0007
+Result:```markdown
+# FEB 2025
+
+## GLOBAL DIGITAL HEADLINES
+**Overview of the adoption and use of connected devices and services**
+
+---
+
+### TOTAL POPULATION
+- **8.20 Billion**
+  - Year-on-Year Change: **+0.9%** (70 Million)
+  - Urbanisation: **58.1%**
+
+### CELLULAR MOBILE CONNECTIONS
+- **8.78 Billion**
+  - Year-on-Year Change: **+2.2%** (190 Million)
+  - Total vs. Population: **107%**
+
+### INDIVIDUALS USING THE INTERNET
+- **5.56 Billion**
+  - Year-on-Year Change: **+2.5%** (136 Million)
+  - Total vs. Population: **67.9%**
+
+### SOCIAL MEDIA USER IDENTITIES
+- **5.24 Billion**
+  - Year-on-Year Change: **+4.1%** (206 Million)
+  - Total vs. Population: **63.9%**
+
+---
+
+**NOTE:** Significant revisions to source data mean that figures shown here are not comparable with previous reports.
+```
+
+Page:0008
+Result:```markdown
+# Mobile Connectivity
+**Feb 2025**
+
+**Cellular mobile connections compared with total population**
+
+| Region              | Percentage  |
+|---------------------|-------------|
+| Northern America     | 117%        |
+| Caribbean            | 88.3%       |
+| Central America      | 101%        |
+| Southern America     | 115%        |
+| Northern Europe      | 130%        |
+| Western Europe       | 123%        |
+| Southern Europe      | 131%        |
+| Eastern Europe       | 144%        |
+| Northern Africa      | 101%        |
+| Western Africa       | 84.7%       |
+| Middle Africa        | 65.5%       |
+| Western Asia         | 83.7%       |
+| Southern Asia        | 78.7%       |
+| Eastern Asia         | 133%        |
+| Central Asia         | 106%        |
+| South-Eastern Asia   | 126%        |
+| Eastern Africa       | 78.7%       |
+| Southern Africa      | 183%        |
+| Oceania              | 106%        |
+
+---
+
+*Note: Data presented is a reflection of cellular mobile connections compared with the total population.*
+```
+
+Page:0019
+Result:```markdown
+# FEB 2025
+## AGE DISTRIBUTION OF THE POPULATION
+The number of people in each age group, and the age group's associated share of the total population.
+
+| Age Group   | Population  | Percentage |
+|-------------|-------------|------------|
+| AGE 0-4    | 2.97 M      | 4.1%       |
+| AGE 5-9    | 3.40 M      | 4.7%       |
+| AGE 10-14  | 4.25 M      | 5.5%       |
+| AGE 15-19  | 4.66 M      | 5.9%       |
+| AGE 20-24  | 4.97 M      | 6.5%       |
+| AGE 25-29  | 5.07 M      | 6.9%       |
+| AGE 30-34  | 5.22 M      | 7.1%       |
+| AGE 35-39  | 5.29 M      | 7.0%       |
+| AGE 40-44  | 5.34 M      | 7.3%       |
+| AGE 45-49  | 5.22 M      | 7.3%       |
+| AGE 50-54  | 5.29 M      | 7.4%       |
+| AGE 55-59  | 5.29 M      | 7.4%       |
+| AGE 60-64  | 4.80 M      | 6.7%       |
+| AGE 65-69  | 4.01 M      | 5.6%       |
+| AGE 70-74  | 3.00 M      | 4.2%       |
+| AGE 75-79  | 2.04 M      | 2.8%       |
+| AGE 80-84  | 1.23 M      | 1.7%       |
+| AGE 85-89  | 744 K       | 1.0%       |
+| AGE 90-94  | 334 K       | 0.5%       |
+| AGE 95-99  | 94.8 K      | 0.1%       |
+| AGE 100+   | 15.8 K      | <0.1%      |
+
+---
+
+**Notes:** Percentage values below each bar represent the respective age group's share of the total population.
+```
+
+Page:0020
+Result:```markdown
+# Financial and Developmental Indicators
+
+**World Bank Indicators for Financial Development, Access to Essential Services, and Device Ownership**  
+**Thailand**  
+**February 2025**
+
+| Indicator                                                  | Value           |
+|-----------------------------------------------------------|-----------------|
+| **Gross Domestic Product (Current U.S. Dollars)**        | $529 Billion    |
+| **Gross Domestic Product (PPP; Current International Dollars)** | $1.77 Trillion  |
+| **Gross Domestic Product Per Capita (Current U.S. Dollars)** | $7,527         |
+| **Gross Domestic Product Per Capita (PPP; Current International Dollars)** | $25.2 Thousand |
+| **Net National Income Per Capita (Current U.S. Dollars)** | $5,393         |
+| **Percentage of the Population Earning Less Than $3.65 (2017, PPP) Per Day** | 0.6%          |
+| **Percentage of the Population Using At Least Basic Drinking Water Services** | 100%         |
+| **Percentage of the Population Using At Least Basic Sanitation Services** | 99.0%         |
+| **Percentage of the Population with Access to Electricity** | 99.9%         |
+| **Percentage of the Population That Owns a Mobile Phone (Any Type)** | 100%         |
+
+---
+
+**Note:** 
+“$3.65 (2017, PPP)”: Reflects local "purchasing power parity"; based on the World Bank's 2017 exchange benchmark. 
+"Basic Drinking Water": Percentage of the total population that drinks water from an improved source, provided collection time is not more than 30 minutes for a round trip. 
+"Basic Sanitation": Percentage of the total population using improved sanitation facilities that are not shared with other households.
+```
+

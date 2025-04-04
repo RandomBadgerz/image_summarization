@@ -1,0 +1,873 @@
+Page:0001
+Result:```markdown
+# STANDARD INSIGHTS
+
+## CONSUMER REPORT
+### Thailand 2024
+
+www.standard-insights.com
+```
+
+Page:0002
+Result:```markdown
+# About the Report
+
+In March 2024, Standard Insights conducted an online survey to explore consumer behavior in Thailand.
+
+The report explores the thoughts and feelings of Thai consumers, revealing their attitudes, priorities, and spending patterns. It provides insights into their economic views, environmental awareness, and personal goals. The report examines important areas such as budgeting habits, travel preferences, and streaming habits, offering a clear understanding of what motivates Thai consumers in the present day.
+```
+
+Page:0003
+Result:```markdown
+# Table of Contents
+
+| Section                                      | Page |
+|----------------------------------------------|------|
+| About the Report                             | 02   |
+| Methodology                                  | 04   |
+| General Attitudes and Beliefs               | 05   |
+| 2024 Budgets and Priorities                 | 11   |
+| Health & Leisure                             | 18   |
+| Future of Work                               | 24   |
+| Media Consumption and Information Sources    | 33   |
+| Conclusion                                   | 38   |
+
+**STANDARD INSIGHTS**
+```
+
+Page:0004
+Result:```markdown
+# Methodology
+
+## Total number of respondents
+- **750**
+
+## Gender Distribution
+
+| Gender | Percentage |
+|--------|------------|
+| Male   | 40.0%      |
+| Female | 60.0%      |
+
+## Location
+
+- Bangkok
+- Chiang Mai
+- Chiang Rai
+- Chonburi
+- Hat Yai
+- Khon Kaen
+- Nakhon Ratchasima
+- Nonthaburi
+- Other
+- Pathum Thani
+- Pattaya
+- Phuket
+- Samut Prakan
+- Samut Sakhon
+
+## Age Distribution
+
+| Age Range | Percentage |
+|-----------|------------|
+| 18-25     | 14.3%      |
+| 26-35     | 17.3%      |
+| 36-45     | 19.6%      |
+| 46-55     | 21.3%      |
+| 56-65     | 21.6%      |
+| 65+       | 5.9%       |
+
+> **Note:** Respondents not living in Thailand were removed from the survey.
+```
+
+Page:0005
+Result:```markdown
+# Consumer Report Thailand 2024
+
+## General Attitudes and Beliefs
+
+| Category                   | Percentage |
+|---------------------------|------------|
+| Trust in brands           | 61%        |
+| Preference for local goods| 78%        |
+| Importance of sustainability| 85%       |
+| Online shopping frequency  | 54%        |
+| Brand loyalty             | 47%        |
+| Willingness to pay more for quality | 72% |
+```
+
+Page:0006
+Result:```markdown
+# Future Outlook
+
+Respondents expressed a range of sentiments about the future, with neutrality being the predominant outlook, followed by varying degrees of optimism. Age-wise, the 36-45 group leaned most towards neutrality, while those aged 65 and above tended to be the most optimistic. In terms of gender, men showed a slightly higher level of optimism compared to women. Geographically, Samut Prakan had the highest proportion of neutral responses, while Nakhon Ratchasima emerged as the most optimistic location.
+
+## How hopeful are you about the future?
+
+| Sentiment               | Percentage |
+|------------------------|------------|
+| Very optimistic        | 17.1%      |
+| Somewhat optimistic     | 25.1%      |
+| Neutral                | 50.9%      |
+| Somewhat pessimistic    | 4.7%       |
+| Very pessimistic       | 2.3%       |
+
+*Single Choice | 502 Participants | 502 Answers*
+```
+
+Page:0007
+Result:```markdown
+# Thailand Economic Sentiment
+
+In Thailand, confidence in the economy appears notably low, with most respondents expressing neutrality or some degree of skepticism. Among age groups, those aged 56-65 exhibit the highest level of skepticism, particularly with a prevalence of 'Somewhat not confident' responses. Gender-wise, both men and women display similar levels of confidence, albeit with slight differences. Geographically, confidence levels vary significantly across regions. Areas like Samut Prakan and Nonthaburi demonstrate higher levels of skepticism, contrasting with locations such as Samut Sakhon and Nakhon Ratchasima, which exhibit a more balanced outlook.
+
+## How would you rate your current confidence level in Thailand’s economy?
+
+| Confidence Level             | Percentage |
+|------------------------------|------------|
+| Very confident                | 4.4%       |
+| Somewhat confident            | 14.3%      |
+| Neutral                       | 38.2%      |
+| Somewhat not confident        | 36.6%      |
+| Not confident at all         | 6.5%       |
+
+*Single Choice | 502 Participants | 502 Answers*
+```
+
+Page:0008
+Result:```markdown
+# Environmental Concern
+
+Environmental issues garner more "Concern" from respondents, with a significant portion also expressing being "Very Concerned". Among age groups, the 56-65 demographic exhibited the highest level of concern. In terms of gender, both men and women leaned more towards being concerned, although men showed a slightly higher inclination. Geographically, most locations reflected more concern than neutrality or being "Very Concerned", with Samut Sakhon demonstrating the highest level of concern. However, Pathum Thani and Hat Yai stood out for having more respondents expressing being "Very Concerned".
+
+## How concerned are you about environmental issues?
+
+| Level of Concern         | Percentage |
+|--------------------------|------------|
+| Very concerned           | 24.8%      |
+| Concerned                | 45.9%      |
+| Neutral                  | 23.0%      |
+| Unconcerned              | 3.7%       |
+| Very unconcerned         | 2.5%       |
+
+Single Choice | 502 Participants | 502 Answers
+```
+
+Page:0009
+Result:```markdown
+# Importance of Sustainable Living
+
+Most respondents consider sustainable living to be either "extremely important" or "important". Among age groups, younger demographics, particularly the 18-25 group, showed the highest inclination towards considering it "extremely important", while older age groups (56-65+) leaned more towards "important". Both genders prioritize sustainable living, with men slightly more inclined towards considering it "extremely important".
+
+## How important is sustainable living to you?
+
+| Importance Level          | Percentage |
+|---------------------------|------------|
+| Extremely important        | 42.9%      |
+| Important                 | 33.1%      |
+| Moderately important       | 11.9%      |
+| Slightly important         | 11.2%      |
+| Not important at all      | 0.9%       |
+
+**Single Choice | 502 Participants | 502 Answers**
+```
+
+Page:0010
+Result:```markdown
+# Impact of Social Media on Society
+
+Respondents had mixed feelings about social media's societal impact, with neutrality being the most common sentiment, followed by somewhat positive and somewhat negative views. Among age groups, the 26-35 demographic had the highest neutrality, while the 18-25 group leaned somewhat positive. Both genders were largely neutral, with more women expressing somewhat negative views. Rural areas, notably Bangkok, had higher neutrality, while Chiang Mai showed the most positivity and Phuket the most negativity.
+
+## How do you view the impact of social media on society?
+
+| Sentiment          | Percentage |
+|--------------------|------------|
+| Very positive       | 7.7%       |
+| Somewhat positive   | 21.8%      |
+| Neutral             | 44.1%      |
+| Somewhat negative    | 21.9%      |
+| Very negative       | 4.5%       |
+
+Single Choice | 502 Participants | 502 Answers
+```
+
+Page:0011
+Result:```markdown
+# Consumer Report Thailand 2024
+
+## 2024 Budgets and Priorities
+
+| Priority Category  | Percentage (%) |
+|--------------------|----------------|
+| Health and Wellbeing| 30%            |
+| Education          | 25%            |
+| Home Improvement    | 20%            |
+| Travel and Leisure  | 15%            |
+| Miscellaneous      | 10%            |
+
+| Budget Allocation Model  | Value (THB)    |
+|--------------------------|----------------|
+| Total Budget             | 100,000,000    |
+| Health and Wellbeing     | 30,000,000     |
+| Education                | 25,000,000     |
+| Home Improvement          | 20,000,000     |
+| Travel and Leisure        | 15,000,000     |
+| Miscellaneous            | 10,000,000     |
+```
+
+Page:0012
+Result:```markdown
+# Financial Goals
+
+Across all demographics, the most common financial goal is trimming unnecessary expenses. The 56-65 group focuses on expense reduction and debt repayment. Ages 36-55 prioritize cutting expenses, boosting income, and paying off debt, while the 18-35 group aims for major purchases alongside expense reduction. Men emphasize expense reduction, debt repayment, and income increase, while women focus on cutting expenses, boosting income, and saving for major purchases. Geographically, reducing expenses is prevalent, with income increase and debt repayment also common goals in many areas.
+
+## What are your primary financial goals for 2024?
+
+| Financial Goal                                        | Percentage |
+|------------------------------------------------------|------------|
+| Reducing unnecessary expenses                          | 26.7%      |
+| Paying off debt                                       | 17.1%      |
+| Saving for a major purchase (e.g. home / car)       | 17.8%      |
+| Saving for retirement                                  | 12.7%      |
+| Investing in stocks or funds                          | 5.8%       |
+| Building an emergency fund                            | 2.9%       |
+| Other                                                | 0.9%       |
+
+*Multiple Choice | 502 Participants | 1049 Answers*
+```
+
+Page:0013
+Result:```markdown
+# Planned Purchases
+
+In 2024, the most planned purchase is vehicles, followed by electronics and real estate. Age-wise, the preference for vehicles peaks in the 36-45 age group before slightly declining. Electronics are particularly popular among those aged 18-25. Men are more inclined towards purchasing vehicles and real estate, while electronics enjoy equal popularity across genders. Geographically, vehicles and electronics top the list in most locations, except for Phuket where real estate takes the lead. Other items like beauty products and travel packages are less favored overall.
+
+## Which major items do you plan to purchase in 2024?
+
+| Item                                                                 | Percentage  |
+|----------------------------------------------------------------------|-------------|
+| Vehicle (car / motorcycle etc.)                                      | 18.1%       |
+| Home furniture & appliances                                           | 7.6%        |
+| Electronics (smartphone / laptop / smartwatch / tv etc.)            | 17.8%       |
+| Educational courses or certifications                                 | 2.7%        |
+| Clothing & fashion                                                  | 5.3%        |
+| Beauty and skincare products                                          | 4.8%        |
+| Real estate (house / apartment / land etc.)                         | 11.8%       |
+| Travel and vacation packages                                          | 6.7%        |
+| Health and wellness products (fitness trackers / supplements / etc.) | 4.9%        |
+| Insurance policies (health insurance / life insurance / auto insurance etc.) | 6.0%  |
+| Subscription services (streaming / meal kit / etc.)                 | 1.8%        |
+| None of the above                                                   | 5.4%        |
+| Fitness equipment or gym memberships                                  | 1.4%        |
+| Jewelry or luxury items                                             | 1.5%        |
+| Books or e-books                                                    | 3.2%        |
+| Other                                                                | 0.9%        |
+```
+
+Page:0014
+Result:```markdown
+# 2024 Product Category Ranking
+
+The ranking offers insights into consumer preferences across various product categories. Electronics lead the list, indicating a high reliance on technology, followed closely by home appliances and vehicles, suggesting a focus on comfort and mobility. Health and wellness products feature prominently, reflecting growing concerns for personal well-being, while educational resources underscore the importance of continuous learning. Conversely, leisure activities rank lower, potentially reflecting a shift towards more essential purchases amidst evolving lifestyle dynamics.
+
+## Rank the following product categories you are most interested in purchasing in 2024.
+
+| Product Category                                       | Ranking |
+|-------------------------------------------------------|---------|
+| Electronics (e.g. smartphones laptops)                | 9.7     |
+| Home appliances                                        | 8.9     |
+| Vehicles                                              | 8.4     |
+| Clothing & fashion                                     | 8.0     |
+| Furniture                                             | 7.8     |
+| Travel & vacations                                     | 7.7     |
+| Health & wellness products                             | 7.6     |
+| Educational courses or resources                       | 6.4     |
+| Beauty and personal care products                      | 6.1     |
+| Sports and outdoor equipment                           | 5.5     |
+| Books and media                                       | 5.5     |
+| Home improvement and gardening                         | 5.4     |
+| Hobby-related items (e.g. arts crafts musical instruments) | 4.6   |
+| Personal wellbeing (e.g. spa wellness retreats)       | 4.6     |
+| Leisure activities (e.g. concerts festivals events)    | 3.9     |
+
+**Ranking** | 502 Participants | 7530 Answers
+```
+
+Page:0015
+Result:```markdown
+# Travel Intentions
+
+The majority across all age groups, genders, and locations plan 1-2 trips in 2024. Ages 46-55 lean most towards this, while those 65+ are evenly split between 1-2 trips and no travel. Men have a slightly higher percentage of no travel planned. Samut Prakan, Pathum Thani, and Bangkok lead in 1-2 trip plans. Chonburi and rural areas have the highest percentage not planning any travel.
+
+## How many times do you intend to travel in 2024?
+
+| Travel Frequency    | Percentage |
+|---------------------|------------|
+| 1-2 trips           | 38.5%      |
+| 3-5 trips           | 15.5%      |
+| More than 5 trips   | 12.6%      |
+| No travel planned    | 33.5%      |
+
+**Single Choice | 502 Participants | 502 Answers**
+```
+
+Page:0016
+Result:```markdown
+# Travel Destinations
+
+In 2024, local travel within Thailand is the top choice for most respondents, followed by Japan and China. Across all age groups, local travel holds the highest preference. Japan emerges as the second choice for those aged 46-65+, while South Korea ranks third for the 18-35 age group. Both genders prioritize local travel, with Japan as the second choice, but women tend to favor South Korea while men prefer Singapore. Most places prioritize local travel, with Japan typically being the second choice. However, in Bangkok, China takes third place, and in Samut Prakan, South Korea is the third option.
+
+### If you have plans to travel in 2024 where do you intend to travel?
+
+| Destination            | Percentage |
+|------------------------|------------|
+| United Kingdom         | 1.2%       |
+| Travel Locally (Thailand) | 41.8%    |
+| Japan                  | 21.6%      |
+| Australia              | 4.1%       |
+| South Korea            | 7.1%       |
+| Mainland China         | 6.3%       |
+| Hong Kong              | 2.4%       |
+| United States          | 3.0%       |
+| France                 | 2.2%       |
+| Singapore              | 5.7%       |
+| Cambodia               | 0.4%       |
+| Indonesia              | 1.1%       |
+| Other                  | 3.3%       |
+```
+
+Page:0017
+Result:```markdown
+# 2024 Retail Spending Plans Survey
+
+The data reveals varied shifts in consumer behavior across different industries. While sectors like outdoor activities, entertainment, and online food delivery are poised for growth with a majority intending to increase usage, others such as luxury retail and travel services face significant reductions. Stability prevails in sectors like insurance and beauty products, with a substantial portion intending to maintain current levels. These trends reflect evolving consumer preferences influenced by factors like the ongoing pandemic, economic conditions, and changing lifestyle priorities, highlighting the dynamic nature of today's market landscape.
+
+For each retail industry indicate whether you plan to reduce keep the same or increase your spending in 2024.
+
+| Industry                        | Reduce (%) | Keep the Same (%) | Increase (%) |
+|---------------------------------|------------|-------------------|--------------|
+| Banking Services                 | 36.3      | 50.5              | 13.2         |
+| Insurance Services               | 32.3      | 57.0              | 8.3          |
+| Outdoor Activities               | 24.0      | 70.9              | 5.1          |
+| Luxury Retail                   | 33.9      | 50.3              | 15.8         |
+| Travel and Tourism Services      | 43.4      | 20.0              | 36.6         |
+| Health and Wellness Services     | 41.8      | 42.3              | 15.9         |
+| Educational Services             | 44.7      | 45.0              | 10.3         |
+| Beauty and Personal Care Products| 49.0      | 12.3              | 38.2         |
+| Fast Fashion Retail              | 39.4      | 39.5              | 21.1         |
+| Specialty Foods and Beverages    | 22.4      | 49.0              | 28.6         |
+| Home Improvement and DIY Projects | 38.2      | 39.4              | 22.4         |
+| Arts and Crafts Supplies         | 39.0      | 50.5              | 10.5         |
+| Entertainment and Leisure Services| 31.6      | 61.4              | 7.0          |
+| Dining Out and Restaurant Services| 40.2      | 9.5               | 50.3         |
+| Online Food Ordering and Delivery | 35.2      | 10.1              | 54.6         |
+| Transportation Services          | 9.6       | 32.1              | 57.7         |
+```
+
+Page:0018
+Result:```markdown
+# Consumer Report Thailand 2024
+
+## Health & Leisure
+```
+
+
+Page:0019
+Result:```markdown
+# Health and Wellness
+
+Most respondents express interest in health and wellness, with "Interested" being the most common response across all categories.
+
+Among age groups, the 46-55 demographic shows the highest interest, while the 18-25 group leans towards "Very Interested" responses. Men are slightly more interested than women, and interest levels vary by location, with places like Pattaya and Nonthaburi showing more interest compared to Samut Prakan.
+
+## How interested are you in health and wellness?
+
+| Response                   | Percentage |
+|----------------------------|------------|
+| Very interested             | 27.9%      |
+| Interested                  | 40.9%      |
+| Neutral                     | 28.4%      |
+| Somewhat uninterested       | 2.3%       |
+| Very uninterested           | 0.5%       |
+
+**Single | 502 Participants | 502 Answers**
+```
+
+Page:0020
+Result:```markdown
+# Engagement in Physical Exercise or Sports Activities
+
+Most respondents engage in physical exercise or sports activities either frequently or rarely, followed by participating occasionally. The 26-35 age group exercises occasionally the most, and the 36-45 age group tends to exercise rarely. Men show a higher likelihood of exercising frequently compared to women, who tend to exercise rarely. Geographically, respondents from rural areas and Bangkok exhibit more frequent exercise habits, while those from Samut Sakhon tend to exercise less frequently.
+
+## How often do you engage in physical exercise or sports activities?
+
+| Engagement Level                             | Percentage |
+|----------------------------------------------|------------|
+| Very frequently (e.g. several times a week) | 15.2%      |
+| Frequently (e.g. weekly)                     | 23.6%      |
+| Occasionally (e.g. monthly)                  | 25.6%      |
+| Rarely (less than monthly)                   | 27.9%      |
+| Never                                        | 7.6%       |
+
+**Single Choice | 502 Participants | 502 Answers**
+```
+
+Page:0021
+Result:```markdown
+# Preferred Physical Activities or Sports
+
+Walking emerges as the most preferred physical activity across all age groups, genders, and locations, followed by running and cycling. Among different age demographics, the 56-65 group shows the highest preference for walking, while running gains popularity among those aged 36-55. Men tend to show slightly higher inclination towards participating in walking, running, and cycling compared to women. Regarding location, walking is prominent in Bangkok, with running and cycling following suit. In rural areas, there is a diverse range of physical activity preferences, yet walking remains a prevalent choice.
+
+## Which physical activities or sports do you primarily engage in?
+
+| Activity                                           | Percentage |
+|----------------------------------------------------|------------|
+| Walking                                           | 31.4%      |
+| Running                                           | 20.7%      |
+| Team sports (e.g. soccer / basketball)           | 5.4%       |
+| Dancing                                           | 3.5%       |
+| Home workouts (e.g. bodyweight exercises resistance training) | 6.7% |
+| Cycling                                           | 9.3%       |
+| Badminton                                         | 3.4%       |
+| Mind-body practices (e.g. yoga pilates tai chi)  | 3.9%       |
+| Gym                                              | 3.5%       |
+| Martial arts (e.g. muay thai muay boran krabi-krabong) | 0.6%   |
+| Swimming                                          | 4.7%       |
+| Other                                             | 2.2%       |
+| Hiking                                            | 3.9%       |
+| Golf                                              | 0.6%       |
+| Outdoor & adventure sports (e.g. rock climbing, kayaking) | 0.2%   |
+```
+
+
+Page:0022
+Result:```markdown
+# Importance of Physical Activity or Sports in Daily Routine
+
+Physical activity is deemed significant by respondents, with both "Important" and "Moderately Important" responses prevalent across all categories. Among age groups, the 18-25 demographic views it as most moderate, while the 65+ group finds it moderately important. Men tend towards moderation, Phuket shows an even split between importance levels, Pattaya and Pathum Thani emphasize importance, and Bangkok tends towards moderation.
+
+## How important is physical activity or sports in your daily routine?
+
+| Importance Level              | Percentage |
+|-------------------------------|------------|
+| Extremely important            | 15.9%      |
+| Important                     | 31.0%      |
+| Moderately important           | 33.1%      |
+| Slightly important             | 16.2%      |
+| Not important at all           | 3.9%       |
+
+*Single Choice | 502 Participants | 502 Answers*
+```
+
+Page:0023
+Result:```markdown
+# Preferred Free Time Activities
+
+Relaxing at home, especially watching TV or reading, was the top choice during free time across all demographics. While this trend was consistent, slight variations existed: the 18-25 and 56-65 age groups preferred watching movies/theatre performances and exploring the city, respectively. Men leaned towards movies or theatre and city exploration, while women favored hobbies and dining out. Geographically, most locations preferred home relaxation.
+
+## What are your preferred activities during your free time?
+
+| Activity                                             | Percentage |
+|-----------------------------------------------------|------------|
+| Relaxing at home (e.g. reading / watching TV)      | 27.9%      |
+| Watching movies or theatre performances              | 10.9%      |
+| Dining out at restaurants                            | 9.9%       |
+| Engaging in hobbies (e.g. painting / cooking / gardening) | 8.5%       |
+| Visiting shopping malls                              | 8.9%       |
+| Exploring the city (e.g. sightseeing / street markets) | 10.4%      |
+| Engaging in sports (e.g. playing badminton / swimming) | 4.6%       |
+| Participating in outdoor activities (e.g. hiking / visiting parks) | 6.0%       |
+| Attending cultural events (e.g. concerts / exhibitions) | 3.6%       |
+| Participating in community events or local festivals | 4.8%       |
+| Enjoying nightlife (e.g. bars / clubs)              | 2.7%       |
+| Other                                               | 1.8%       |
+```
+
+
+Page:0024
+Result:```markdown
+# Consumer Report Thailand 2024
+
+## Future of Work
+
+![Slide Image](image-url)
+
+| Chart Title       | Interpretation                                 |
+|-------------------|-------------------------------------------------|
+| Chart 1 Title     | Data Point 1: Value 1, Data Point 2: Value 2  |
+| Chart 2 Title     | Data Point 1: Value 1, Data Point 2: Value 2  |
+| Chart 3 Title     | Data Point 1: Value 1, Data Point 2: Value 2  |
+
+---
+```
+(Note: Replace `image-url` with actual image source URL and replace chart titles and values with actual data.)
+
+Page:0025
+Result:```markdown
+# Job Preferences
+
+"Job security" stands out as the most valued factor across all categories. Older age groups, especially 56-65+, prioritize it, while younger demographics increasingly value work-life balance. Both genders emphasize job security, with women slightly valuing it more. Geographically, job security is paramount in most locations, though exceptions exist, like Samut Sakhon valuing opportunities for advancement and work-life balance equally.
+
+## What are the most important factors for you in a job?
+
+| Factor                                            | Percentage |
+|--------------------------------------------------|------------|
+| Job security                                     | 18.7%      |
+| Work-life balance                                | 13.1%      |
+| Competitive salary                               | 7.8%       |
+| Flexible working hours/location                   | 9.9%       |
+| Health and wellness benefits                      | 8.7%       |
+| Opportunities for advancement                    | 2.4%       |
+| Brand reputation of the company                  | 2.6%       |
+| Company culture and values                        | 3.8%       |
+| Professional development and training opportunities| 6.1%       |
+| Strong leadership and management                  | 3.8%       |
+| Meaningful and impactful work                    | 2.2%       |
+| Inclusive and diverse workplace                   | 2.7%       |
+| Creative and innovative environment               | 5.7%       |
+| Company-specific perks (e.g. easier access to loans/ discounts) | 3.0%       |
+| Other                                            | 0.3%       |
+```
+
+Page:0026
+Result:```markdown
+# Work-Life Balance
+
+"Important" emerged as the most common response regarding work-life balance across age, gender, and location. Among age groups, younger demographics (18-35) more often rated it as "Extremely Important" compared to older age groups. Both men and women predominantly ranked work-life balance as "Important", but a larger percentage of men found it so compared to women. Geographically, the importance of work-life balance varied: in Bangkok and Samut Prakan, it was mostly considered "Important", while in Chiang Rai and Hat Yai, it was seen as "Extremely Important".
+
+## How important is work-life balance to you?
+
+| Response                   | Percentage |
+|----------------------------|------------|
+| Extremely important         | 31.0%      |
+| Important                  | 41.3%      |
+| Moderately important        | 17.1%      |
+| Slightly important          | 9.7%       |
+| Not important at all       | 0.9%       |
+
+**Single Choice | 502 Participants | 502 Answers**
+```
+
+Page:0027
+Result:```markdown
+# Preferred Work Arrangement
+
+The preferred work arrangement is a balanced mix of remote and on-site work, a choice consistent across all age groups, with the highest preference observed in the 56-65 age bracket. More men than women favor this balanced approach. Geographically, there is considerable variety, but the 'balanced mix' is most preferred in many locations such as Bangkok, Chiang Mai, and Chonburi. However, there are exceptions, with locations like Nonthaburi and Samut Sakhon showing preferences for 'Partly remote' and 'Fully remote' arrangements, respectively.
+
+## Which work arrangement do you prefer?
+
+| Work Arrangement                   | Percentage |
+|------------------------------------|------------|
+| Partly remote                      | 13.9%      |
+| Mostly on-site                     | 12.1%      |
+| A balanced mix of remote and on-site | 43.1%      |
+| Fully remote                       | 22.0%      |
+| Fully on-site                      | 8.8%       |
+
+**Single Choice | 502 Participants | 502 Answers**
+```
+
+Page:0028
+Result:```markdown
+# Views on Remote Working
+
+Most participants appreciate the comfort, focus, and improved work-life balance offered by remote working. Among different age groups, older demographics (56-65+) value the elimination of commuting and enhanced personal time. Concerns about career growth are more prominent among the 46-55 age group, while the 18-35 groups express fears of overworking and blurred boundaries. In terms of gender, men find remote work more comfortable and value its adaptability, while women display high adaptability with minimal concerns. Geographically, respondents from all locations appreciate the comfort and focus of remote work. However, those from Chonburi express concerns about career growth and productivity.
+
+## What are your views or concerns about remote working?
+
+| Concern/View                                               | Percentage |
+|----------------------------------------------------------|------------|
+| Productivity concerns: I doubt its efficiency and effectiveness. | 16.0%      |
+| Isolation: I worry about the lack of social interaction and loneliness. | 8.1%       |
+| Comfort and focus: I find working remotely more comfortable and conducive to concentration. | 13.7%      |
+| Adaptability: I have no major concerns and adapt well to remote working. | 13.4%      |
+| Flexibility benefit: I value the adaptability and autonomy it offers. | 11.5%      |
+| Career growth concerns: I'm apprehensive about reduced visibility and advancement. | 13.7%      |
+| Better balance: I appreciate the elimination of commuting and improved personal time. | 11.5%      |
+| Work-life imbalance: I fear overworking and blurred boundaries. | 11.7%      |
+| Other                                                    | 0.4%       |
+```
+
+Page:0029
+Result:```markdown
+# Perceptions of Automation and AI
+
+Most people harbor concerns about job security stemming from AI and automation, yet they also recognize opportunities for efficiency increase and growth. Across age groups, older demographics (56-65+) express more pronounced concerns about job security, while younger groups (18-35) share these worries but hold a stronger belief in the potential for efficiency gains. Both genders largely hold similar views, with job security being the foremost concern, closely followed by the potential for efficiency improvements. Geographically, job security emerges as a major concern across various locations. However, in places like Samut Sakhon, skill obsolescence is a significant worry, while in Chiang Rai, the opportunity for growth is viewed positively.
+
+## What are your views on automation and AI in the workplace?
+
+| Views                                   | Percentage |
+|-----------------------------------------|------------|
+| Efficiency increase: belief that AI and automation boost productivity.| 21.6%      |
+| Ethical and privacy concerns: apprehensions about data security and ethical usage.| 6.9%       |
+| Job security concerns: worries about being replaced by technology.| 27.8%      |
+| Opportunity for growth: seeing AI as an opportunity for new skill development.| 17.2%      |
+| Personal job interest: concerns about decreased job satisfaction.| 3.6%       |
+| Skill obsolescence: fears about skills becoming outdated.| 10.7%      |
+| Work quality improvement: expectation of improved accuracy and consistency.| 8.1%       |
+| Workplace dynamics: worries about the impact on team dynamics and collaboration.| 1.9%       |
+| Other                                   | 2.1%       |
+```
+
+Page:0030
+Result:```markdown
+# Usage of AI
+
+The majority of participants are planning to utilize AI in the future, with data analysis being the most common application, followed by a smaller group having no plans to use AI. Among different age groups, the 46-55 demographic shows the highest interest in future AI use, while the 18-25 group utilizes AI the most for data analysis. Gender-wise, men and women exhibit similar trends, with more planning to use AI in the future. Geographically, most locations show a majority of participants planning to use AI in the future, with rural areas demonstrating the highest interest. Bangkok stands out for the most frequent use of AI for data analysis.
+
+## Are you currently using AI to support work or studies-related tasks?
+
+| Task Type                                                                | Percentage |
+|--------------------------------------------------------------------------|------------|
+| Using AI for data analysis and reporting                                  | 15.0%      |
+| Using AI for human resources (e.g. recruitment / employee engagement analysis) | 4.1%       |
+| Using AI for product development (e.g. design optimization / testing simulations) | 6.2%       |
+| Using AI for research and development (e.g. market research / innovation discovery) | 4.9%       |
+| Using AI for customer service (e.g. chatbots / automated responses)      | 8.6%       |
+| Using AI in academic studies/research (e.g. data analysis / simulations / thesis work) | 7.2%       |
+| Not using AI currently but planning to in the future                     | 25.6%      |
+| Using AI for marketing and sales (e.g. personalized recommendations / lead scoring) | 5.5%       |
+| Not using AI and no plans to use in the near future                      | 11.0%      |
+| Using AI for operational efficiency (e.g. automation of routine tasks)   | 8.2%       |
+| Using AI for financial management (e.g. predictive budgeting / fraud detection) | 3.5%       |
+| Other                                                                    | 0.1%       |
+```
+
+Page:0031
+Result:```markdown
+# Job Security Perceptions
+
+The prevailing sentiment among most respondents is uncertainty regarding the future of their jobs in the era of automation and AI. Across age groups, the 56-65 demographic feels the most uncertain, while those aged 46-55 feel relatively secure. Gender-wise, both men and women share similar levels of uncertainty. Geographically, uncertainty is widespread across most locations. However, in Samut Sakhon and Phuket, most respondents feel their jobs are highly secure and indispensable.
+
+## How do you perceive the future of your current job in the era of automation and AI?
+
+| Perception                                  | Percentage |
+|---------------------------------------------|------------|
+| Relatively secure                           | 30.3%      |
+| Uncertain                                   | 36.5%      |
+| At risk of automation                       | 10.0%      |
+| Highly secure and indispensable             | 16.5%      |
+| Highly likely to be automated               | 6.8%       |
+```
+
+Page:0032
+Result:```markdown
+# Future Job Security Sentiments
+
+Respondents generally range from feeling neutral to somewhat secure about their job security. The 36-45 age group leans towards neutrality, closely followed by the 26-35 group, while the 56-65 age group feels a blend of somewhat secure and insecure. Men tend to feel more secure, expressing neutrality and somewhat security, whereas women are equally split between neutrality and somewhat security. Respondents from Samut Sakhon feel the most secure, those from Chonburi show a mixed response, and respondents from Bangkok largely express neutrality.
+
+## How secure do you feel about your job in the coming years?
+
+| Job Security Level        | Percentage |
+|---------------------------|------------|
+| Somewhat secure           | 26.8%      |
+| Neutral                   | 41.6%      |
+| Very secure               | 11.6%      |
+| Somewhat insecure         | 15.5%      |
+| Very insecure             | 4.5%       |
+
+Single Choice | 404 Participants | 404 Answers
+```
+
+Page:0033
+Result:```markdown
+# Consumer Report Thailand 2024
+
+## Media Consumption and Information Sources
+
+| Media Type            | Percentage Consumption |
+|-----------------------|------------------------|
+| Social Media          | XX%                    |
+| Television            | XX%                    |
+| Online News Platforms  | XX%                    |
+| Print Media           | XX%                    |
+| Radio                 | XX%                    |
+| Podcasts              | XX%                    |
+
+| Most Trusted Sources   | Percentage Trust Level |
+|------------------------|------------------------|
+| Family and Friends      | XX%                    |
+| Online Reviews          | XX%                    |
+| Social Media Influencers | XX%                    |
+| News Websites           | XX%                    |
+| Television News        | XX%                    |
+| Print Media            | XX%                    |
+```
+
+Page:0034
+Result:```markdown
+# News Source Preferences
+
+Social media reigns as the top choice for news and information, followed by online websites and TV. Among age groups, all demographics prefer social media, with the 26-35 age group displaying the highest preference. Both men and women favor social media, yet women exhibit a slightly stronger preference for it than men. Geographically, social media is the preferred source across all areas, with the highest preference observed in Samut Prakan. However, some locations like Nakhon Ratchasima demonstrate an equal preference for social media and other sources.
+
+## Which sources do you prefer for news and information?
+
+| Source           | Preference (%) |
+|------------------|----------------|
+| Social media     | 39.5           |
+| Online websites   | 25.4           |
+| TV               | 22.4           |
+| Radio            | 4.3            |
+| Newspapers       | 3.9            |
+| Magazines        | 3.9            |
+| Other            | 0.5            |
+
+*Multiple Choice | 502 Participants | 1131 Answers*
+```
+
+Page:0035
+Result:```markdown
+# Trust in Media Channels
+
+Most respondents place equal trust in both traditional and new media, with only a minority expressing a significant preference for one over the other. Trust in both media types equally tends to increase with age, with the 36-45 age group showing the highest trust, while the 65+ age group exhibits the most preference for traditional media. Both men and women largely trust both media types equally, though more men than women significantly trust traditional media. Geographically, trust in both media types equally is highest in Samut Sakhon, Samut Prakan, and Bangkok, whereas trust in traditional media is highest in Phuket, Pathum Thani, and Chonburi.
+
+---
+
+## Survey Results
+
+| Trust Level Description                                             | Percentage |
+|--------------------------------------------------------------------|------------|
+| I trust both traditional and new media equally                      | 42.7%      |
+| I trust new media somewhat more than traditional media              | 15.6%      |
+| I trust traditional media significantly more than new media        | 19.5%      |
+| I trust traditional media somewhat more than new media             | 12.1%      |
+| I trust new media significantly more than traditional media        | 10.0%      |
+
+*Single Choice | 502 Participants | 502 Answers*
+```
+
+Page:0036
+Result:```markdown
+# Consumer Report of Thailand 2024
+
+## For each activity select the platform you most frequently use.
+
+| Activity                           | YouTube | Facebook | Instagram | TikTok | WhatsApp | Twitter | LINE  | Total Responses |
+|------------------------------------|---------|----------|-----------|--------|----------|---------|-------|-----------------|
+| Watching videos                     | 419     | 167      | 23        | 113    | 6        | 3       | 24    | 778             |
+| Chatting with friends and family    | 40      | 318      | 50        | 13     | 3        | 4       | 317   | 745             |
+| Reading news                        | 90      | 467      | 19        | 35     | 2        | 0       | 3     | 616             |
+| Reading entertainment content        | 127     | 364      | 63        | 113    | 5        | 28      | 47    | 747             |
+| Shopping and brand interaction      | 15      | 342      | 39        | 206    | 0        | 0       | 118   | 720             |
+| Educational content                 | 184     | 394      | 8         | 17     | 5        | 20      | 80    | 708             |
+| Participating in groups/forums      | 11      | 434      | 22        | 25     | 0        | 8       | 222   | 722             |
+```
+
+Page:0037
+Result:```markdown
+# Movie and TV Show Platforms
+
+YouTube emerges as the most commonly used platform for watching movies and TV shows, followed by Netflix and traditional cable or satellite TV. Across age groups, YouTube is the top choice, particularly favored by the 36-45 age group, while Netflix garners the most usage among the 18-25 demographic. Both men and women prefer YouTube, though women tend to use Netflix more. Geographically, YouTube is preferred in most locations, with Netflix gaining popularity in Samut Prakan, Chiang Mai, and Bangkok. Other platforms such as True ID, iQiyi, and Line TV are also utilized but to a lesser extent.
+
+## Which platforms do you most commonly use to watch movies and TV shows?
+
+| Platform                       | Percentage |
+|-------------------------------|------------|
+| YouTube                       | 44.5%      |
+| Netflix                       | 19.2%      |
+| True ID                       | 6.3%       |
+| Traditional cable or satellite TV | 11.1%  |
+| Line TV                       | 5.0%       |
+| Viu                           | 2.7%       |
+| Amazon Prime Video            | 1.4%       |
+| Disney+                       | 2.2%       |
+| iQiyi                         | 3.5%       |
+| HBO Go                        | 1.4%       |
+| Youku (优酷)                  | 0.8%       |
+| Apple TV+                    | 1.6%       |
+| Kktv                          | 0.2%       |
+
+*Multiple Choice | 502 Participants | 994 Answers*
+```
+
+Page:0038
+Result:```markdown
+# Key Takeaways
+
+Respondents across various demographics express a predominantly neutral outlook towards the future, with varying levels of optimism observed, particularly among different age groups and geographical locations. 
+
+### Financial Goals
+| Focus                     | Description                             |
+|---------------------------|-----------------------------------------|
+| Reducing Expenses          | Indicating a cautious approach to spending |
+
+### Planned Purchases for 2024
+| Priority      | Category                                  |
+|---------------|-------------------------------------------|
+| 1             | Vehicles                                  |
+| 2             | Electronics                               |
+| 3             | Real Estate                               |
+
+### Interest in Health and Wellness
+| Preference                | Description                               |
+|---------------------------|-------------------------------------------|
+| Relaxation at Home        | Consistent preference across all demographics |
+
+### Job Security and Work-Life Balance
+| Age Group        | Importance                               |
+|------------------|------------------------------------------|
+| Older Demographics | Job security remains paramount           |
+| Younger Demographics| Work-life balance gains importance      |
+
+### Source of News and Information
+| Source             | Influence                               |
+|--------------------|-----------------------------------------|
+| Social Media       | Emerges as the preferred source         |
+|                    | Pervasive influence across all demographics |
+```
+
+
+Page:0039
+Result:```markdown
+# Your New Consumer Insights Hub
+
+Meet our platform—a market research solution designed to streamline your research process with tools to help you understand everything about your audience, industry, and competitors.
+
+---
+
+## Begin Your Research Journey
+
+### Start a consumer insights project
+Easily start your market research from our platform, enjoy our in-house survey builders and tools, or complete a brief and let us handle all the work.
+
+### Manage your projects and explore your data
+Effortlessly access, manage, and analyze your projects with our platform designed for informed decision-making.
+
+### Explore our global insights library
+Dive into our extensive library of research reports, meticulously curated from comprehensive global surveys—all readily accessible to you at no cost.
+```
+
+
+Page:0040
+Result:```markdown
+# About
+## Standard Insights
+
+We reshape conventional research practices to make your brand a consumer's go-to choice.
+
+Standard Insights helps organizations access better and faster consumer insights so they can make informed decisions about their products and brands. Instead of relying on consumer panels, we use an innovative methodology for market research that caters to the dynamic needs of decision-makers.
+
+By combining artificial intelligence and cutting-edge advertising technology, we can reach authentic respondents who align with your target audience. Standard Insights has a proven track record of delivering market research services in Thailand, Asia, and all around the globe.
+
+---
+
+## Quantitative Research
+Boost your research with top-tier respondents. Our unique, direct sourcing method ensures rigorous data quality, without the need for intermediaries or panels.
+
+| Metric      | Value  |
+|-------------|--------|
+| Awareness   | 82.4%  |
+| Sample Size | 88     |
+
+## Qualitative Research
+Deep dive into the profiles of your target audience with our expert network and cutting-edge platform, promising swift and insightful outcomes.
+
+## Strategy
+Go the extra mile with our consulting services. Benefit from all the support and research methodology you need to scale and realize your projects.
+
+---
+
+Keen to learn more about our services and platform? Get in touch!
+If you want to learn more about Standard Insights, visit [www.standard-insights.com](http://www.standard-insights.com) or schedule a call with us.
+```
+
